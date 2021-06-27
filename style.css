@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    background-color: linear-gradient (#5DDBFE 0% , #F53029 100%)
+}
+
+img {
+    width: 350px;
+}
+
+
+
+.BTS {
+    display: inline;
+}
+
+#mycarousel {
+    background-color: hotpink;
+}
+
+#mycarousel img {
+    height: 400px;
+   
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#img-responsive{
+   height:650px;
+    width: 350px; 
+}
+.img-responsive{
+   height:650px;
+    width: 550px;  
+}
+
+#blackpink{
+     height:650px;
+    width: 500px;
+}
+
+#jennie{
+  height:650px;
+    width: 250px;  
+}
+
+#rose{
+   height:650px;
+    width: 500px;   
+}
